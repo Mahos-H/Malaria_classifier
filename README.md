@@ -18,3 +18,5 @@ The performance is very good, out of 10400 random test cases, it was able to cor
 
 ![image](https://github.com/Mahos-H/Malaria_classifier/assets/115897153/5e8bab27-bdc9-4530-9e8f-236b7ab02f87)
 <img width="959" alt="image" src="https://github.com/Mahos-H/Malaria_classifier/assets/115897153/42aa4172-aa23-482e-96c8-5d9818f3bcce">
+
+For other cases, accuracy may not be 95.8% but surely greater than 90%.
